@@ -8,7 +8,7 @@ ipython
 testbook
 nbsphinx
 nbsphinx_link
-black==19.10b0
+black==24.3.0
 jsbeautifier>=1.14.0
 twine
 # Test requirements
